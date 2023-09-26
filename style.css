@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    color:rgb(255, 0, 47);   
+}
+.lin1{
+    color:rgb(255, 0, 47);
+}
+.lin2{
+    color:rgb(255, 0, 47);
+}
+.header{
+    min-height: 100vh;
+    width: 90%;
+    color: brown;
+    
+}
+.text{
+    
+    background-image: url(images/desktop-wallpaper-best-4-waste-on-hip-waste-management.jpg);
+    background-position: center;
+    background: linear-gradient(rgba(157, 173, 128, 0.7));
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    text-align:center;
+    
+}
+.heading{
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+}
+.heading:hover{
+    border: 2px ;
+    background-color: rgb(253, 255, 255);
+    transition: 2s;
+}
+.file{
+    font-size: 22px;
+    color: rgb(42, 8, 135);
+    text-align:center;
+    background:transparent ;
+}
+.file:hover{
+    border: 2px ;
+    background-color: rgb(253, 255, 255);
+    transition: 2s;
+}
+.aaa{
+    color: rgb(255, 255, 255);
+    display: inclined-block;
+    text-align:center;
+    border: 1px;
+    padding: 10px 34px;
+    font-size: 20px;
+    background: tranparent;
+}
+.aaa:hover{
+    border: 2px slateblue;
+    background-color: rgb(230, 77, 0);
+    transition: 1s;
+    text-align: center;
+}
+.waste{
+    margin: auto;
+    font-size: 20px;
+}
+.dom{
+  color: rgb(0, 93, 8);
+  font-size: 25px;
+}
+.was{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.fac{
+    color: rgb(0, 93, 8);
+    font-size: 25px;
+}
+.hd{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.how{
+    color: rgb(0, 93, 8);
+    font-size: 25px;
+}
+.awar{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.Site{
+    color: rgb(0, 93, 8);
+    font-size: 15px;
+    
+}
+.social{
+    color: rgb(0, 93, 8);
+    font-size: 15px;
+}
+.def{
+    color:rgb(63, 0, 0);
+    font-size: 20px;
+}
+.FA{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.FA1{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.FA2{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.FA3{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.DW{
+    color: rgb(41, 0, 123);
+    font-size: 20px;
+}
+.A{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.b{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.c{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.d{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.e{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.f{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.g{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.d{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.h{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.i{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.j{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.k{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.l{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.m{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.n{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.o{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.p{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.q{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.r{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.s{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.t{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.u{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.v{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.w{
+    color: rgb(63, 0, 0);
+    font-size: 20px;
+}
+.x{
+    color: rgb(0, 0, 59);
+    font-size: 20px;
+}
+.img{
+    background-image: url("C:\Users\Asus\Desktop\project\images\waste.jpg");
+    width: 100%;
+}
